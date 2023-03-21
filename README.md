@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Himanshu Aggarwal</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A Passionate Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuagg17&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuagg17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshuagg17" alt="himanshuagg17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/himanshuagg17" target="blank"><img src="https://img.shields.io/twitter/follow/himanshuagg17?logo=twitter&style=for-the-badge" alt="himanshuagg17" /></a> </p>
 
 - 🔭 I’m currently working on [CT shirts website clone](https://papaya-kelpie-5e6887.netlify.app/)
 
@@ -15,18 +15,21 @@
 
 - 🤝 I’m looking for help with [Dell clone](https://app.netlify.com/sites/aquamarine-bienenstitch-325366/overview)
 
+- 👨‍💻 All of my projects are available at [https://github.com/himanshuagg17/himanshuagg17.github.io](https://github.com/himanshuagg17/himanshuagg17.github.io)
+
 - 💬 Ask me about **Node.js, HTML , CSS**
 
 - 📫 How to reach me **himuabd17@gmail.com**
 
-- 📄 Know about my experiences ,<a href="https://drive.google.com/file/d/12nL9ipZYlol1ymOhstwlLSc57qR1Cit7/view?usp=sharing"> My resume </a>
+- 📄 Know about my experiences [https://drive.google.com/file/d/12nL9ipZYlol1ymOhstwlLSc57qR1Cit7/view?usp=sharing](https://drive.google.com/file/d/12nL9ipZYlol1ymOhstwlLSc57qR1Cit7/view?usp=sharing)
 
-- ⚡ Fun fact **It's funny to be funny**
+- ⚡ Fun fact **JavaScript is easy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/himanshuagg17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshuagg17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-aggarwal-6208a1137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-aggarwal-6208a1137/" height="30" width="40" /></a>
-<a href="https://leetcode.com/himuabd17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/himuabd17/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/himuabd17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/himuabd17/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
