@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/himanshuagg17/himanshuagg17.github.io](https://github.com/himanshuagg17/himanshuagg17.github.io)
 
-- 💬 Ask me about **Node.js, HTML , CSS**
+- 💬 This is my <a href="https://himanshuagg17.github.io/">Portfolio</a>
 
 - 📫 How to reach me **himuabd17@gmail.com**
 
@@ -30,6 +30,8 @@
 <a href="https://twitter.com/himanshuagg17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshuagg17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-aggarwal-6208a1137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-aggarwal-6208a1137/" height="30" width="40" /></a>
 <a href="https://leetcode.com/himuabd17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/himuabd17/" height="30" width="40" /></a>
+</p>
+<a href="https://himanshuagg17.github.io/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fvector-portfolio-icon_4171290.html&psig=AOvVaw2NT4Y4p5ROCKZEjSx-UnVC&ust=1679470168220000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDpj4jA7P0CFQAAAAAdAAAAABAJ" alt="portfolio image" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
