@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/himanshu-aggarwal-6208a1137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-aggarwal-6208a1137/" height="30" width="40" /></a>
 <a href="https://leetcode.com/himuabd17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/himuabd17/" height="30" width="40" /></a>
 </p>
-<a href="https://himanshuagg17.github.io/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fvector-portfolio-icon_4171290.html&psig=AOvVaw2NT4Y4p5ROCKZEjSx-UnVC&ust=1679470168220000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDpj4jA7P0CFQAAAAAdAAAAABAJ" alt="portfolio image" height="30" width="40" /></a>
+<a href="https://himanshuagg17.github.io/" target="blank"><img align="center" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffreepng%2Fvector-portfolio-icon_4171290.html&psig=AOvVaw2NT4Y4p5ROCKZEjSx-UnVC&ust=1679470168220000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDpj4jA7P0CFQAAAAAdAAAAABAJ](https://cdn-icons-png.flaticon.com/512/686/686104.png)" alt="portfolio image" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
